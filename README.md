@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Ngôn ngữ và Công nghệ</h3>
+  <h3>Ngôn ngữ</h3>
   <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,python" />
   
   <h3>Công nghệ</h3>
