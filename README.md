@@ -1,2 +1,4 @@
-<img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div align="center">
+  <h3>🛠️ Ngôn ngữ và Công nghệ</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,python,tensorflow,mysql,git" />
+</div>
