@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
   
   <h3>AI</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
   
   <h3>DevOps</h3>
   <img src="https://skillicons.dev/icons?i=git" />
