@@ -8,7 +8,7 @@
 
 ### 🎯 Lĩnh vực đang quan tâm & Nghiên cứu
 - **Artificial Intelligence:** Đặc biệt hứng thú với Computer Vision (Xử lý ảnh), mạng nơ-ron tích chập (CNN), và Generative Image Models.
-- **Software Architecture:** Thiết kế hệ thống, ứng dụng Design Patterns, Microservices và phát triển Web Fullstack (Spring Boot + React).
+- **Software Architecture:** Thiết kế hệ thống, ứng dụng Design Patterns, Microservices và phát triển Web Fullstack.
 - **Mục tiêu hiện tại:** Tích lũy kinh nghiệm thực chiến với System Design và tìm kiếm cơ hội thực tập (Intern/Fresher) tại các công ty công nghệ lớn.
 
 ### 🛠 Tech Stack
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Dự án nổi bật (Featured Projects)
+### 🚀 Dự án nổi bật (Featured Projects) - Vẫn còn đang cập nhật
 *Phần này bạn có thể chèn link đến các repo public của mình:*
 - **[Tên Repo 1]:** Dự án nghiên cứu ứng dụng Generative AI để mô phỏng và tìm kiếm người mất tích.
 - **[Tên Repo 2]:** Hệ thống quản lý đăng ký học phần áp dụng các Software Design Patterns (Factory, Strategy...).
