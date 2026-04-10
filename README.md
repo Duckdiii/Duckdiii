@@ -33,6 +33,5 @@
 ---
 
 ### 🚀 Dự án nổi bật (Featured Projects) - Vẫn còn đang cập nhật
-*Phần này bạn có thể chèn link đến các repo public của mình:*
 - **[Tên Repo 1]:** Dự án nghiên cứu ứng dụng Generative AI để mô phỏng và tìm kiếm người mất tích.
-- **[Tên Repo 2]:** Hệ thống quản lý đăng ký học phần áp dụng các Software Design Patterns (Factory, Strategy...).
+- **[Tên Repo 2]:** Phân loại khối u não dùng mô hình học sâu
