@@ -2,9 +2,9 @@
 
 # Xin chào, mình là Duy! 👋
 
-**Sinh viên Kỹ thuật Phần mềm @ HCMUTE &nbsp;·&nbsp; AI Integration Enthusiast**
+**Sinh viên năm 3 Kỹ thuật Phần mềm @ HCMUTE &nbsp;·&nbsp; Backend Developer (Java/Spring Boot) &nbsp;·&nbsp; AI Integration**
 
-Mình đam mê xây dựng các hệ thống phần mềm bền vững và đưa các mô hình **Artificial Intelligence** vào ứng dụng thực tế để giải quyết bài toán xã hội.
+Mình đang xây dựng nền tảng vững về **backend engineering** với Java/Spring Boot, song song với việc tích hợp AI (RAG, LLM) vào các sản phẩm thực tế. Hiện đang tìm kiếm cơ hội **Intern / Fresher Backend Developer**.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Duy&label=Lượt+xem+profile&color=0e75b6&style=flat)](https://github.com/Duy)
 
@@ -12,12 +12,63 @@ Mình đam mê xây dựng các hệ thống phần mềm bền vững và đưa
 
 ---
 
-## 🎯 Lĩnh vực đang quan tâm & Nghiên cứu
+## 🎯 Đang tập trung vào
 
-- 🖼️ **Computer Vision:** Có kinh nghiệm với Convolutional Neural Network (CNN), YOLO, Vision Transformer và các mô hình Generative Image.
-- 🤖 **AI Integration & Automation:** Tập trung tích hợp Large Language Model (LLM) vào ứng dụng thực tế thông qua RAG, LangChain và tự động hóa quy trình với n8n.
-- 🏗️ **Software Architecture:** Thiết kế hệ thống, áp dụng Design Patterns, Microservices và phát triển Web Fullstack.
-- 🎯 **Mục tiêu hiện tại:** Tích lũy kinh nghiệm thực chiến với System Design và tìm kiếm cơ hội **Intern / Fresher** tại các công ty công nghệ.
+- 🏗️ **Backend Engineering:** Spring Boot 3.x, Spring Security (JWT/OAuth2/OIDC), Spring Data JPA/Hibernate, thiết kế entity/UML theo domain-driven, REST API layered architecture.
+- 🤖 **AI Integration / Context Engineering:** Xây dựng hệ thống RAG thực chiến — retrieval orchestration (hybrid search, reranking, adaptive routing) và đánh giá chất lượng pipeline bằng RAGAS.
+- 📐 **OOAD & System Design:** Phân tích và thiết kế hệ thống bằng UML, áp dụng nguyên tắc domain semantics khi thiết kế entity và quan hệ.
+- 🎯 **Mục tiêu hiện tại:** Hoàn thiện các mảng backend còn thiếu (testing, caching, AOP) để sẵn sàng cho vòng phỏng vấn thực tập.
+
+---
+
+## 🚀 Dự án đang thực hiện
+
+### 🛒 TechStore — Nền tảng E-commerce đa vai trò
+> **Spring Boot 3.x · React · PostgreSQL (Supabase) · Spring Security**
+
+Hệ thống thương mại điện tử với 3 vai trò (Customer/Staff/Manager), phát triển theo nhóm 5 người — mình phụ trách thiết kế entity & UML.
+- JWT Authentication, Spring Security phân quyền theo role.
+- JPA inheritance: `JOINED` cho hierarchy User, `SINGLE_TABLE` cho PaymentMethod.
+- Quản lý product catalog, orders, promotions, inventory.
+
+---
+
+### ⚖️ LawVN Assistant — Hệ thống hỏi-đáp văn bản pháp luật (RAG)
+> **FastAPI · LangChain · Qdrant · PostgreSQL · Gemini 2.0 Flash**
+
+RAG pipeline cho văn bản pháp luật tiếng Việt — đây là dự án thể hiện rõ nhất kinh nghiệm context engineering thực tế của mình.
+- Hybrid retrieval: BM25 + dense search (BAAI/bge-m3), kết hợp bằng RRF fusion.
+- CRAG (đánh giá chất lượng retrieval) và Adaptive RAG routing.
+- Cross-encoder reranking (ms-marco-MiniLM), fallback qua Tavily API.
+- Đánh giá pipeline bằng RAGAS (đang triển khai).
+
+---
+
+### 📖 DocuSight — Hệ thống xử lý tài liệu thông minh
+> **FastAPI · LangChain · AI Summarization**
+
+Chuyển đổi PDF/URL thành trải nghiệm đọc có cấu trúc — tái sử dụng kiến trúc ingestion/chunking từ LawVN.
+- Tự động chia chương, tóm tắt AI, highlight, theo dõi tiến độ đọc.
+- Mô hình actor Reader/Admin với cơ chế human-in-the-loop review nội dung do AI gắn cờ.
+
+---
+
+### 💡 NextStep *(đang phác thảo ý tưởng)* — AI Job Recommender cho SV IT Việt Nam
+> **Collaborative Filtering · Knowledge Graph + GNN · LLM Integration**
+
+Dự án định hướng làm portfolio centerpiece sau khi hoàn thiện nền tảng backend.
+
+---
+
+## 📚 Đang học / trau dồi
+
+Đang đi theo lộ trình Spring Boot có hệ thống: IoC/DI → Auto-configuration → REST API → Spring Data JPA/Hibernate → Spring Security (JWT → OAuth2/OIDC) → nâng cao.
+
+- [ ] Testing: JUnit 5, Mockito, MockMvc
+- [ ] Advanced JPA: N+1 problem, fetch strategies
+- [ ] Spring AOP
+- [ ] Redis caching
+- [ ] OpenAPI/Swagger + JWT integration
 
 ---
 
@@ -25,44 +76,21 @@ Mình đam mê xây dựng các hệ thống phần mềm bền vững và đưa
 
 <div align="center">
 
-### Ngôn ngữ lập trình
-![Skills](https://skillicons.dev/icons?i=cs,java,python,js,html,css)
+### Ngôn ngữ
+![Skills](https://skillicons.dev/icons?i=java,python,js,html,css)
 
-### Framework & Library
-![Skills](https://skillicons.dev/icons?i=spring,react,nodejs)
+### Backend & Frontend
+![Skills](https://skillicons.dev/icons?i=spring,fastapi,react,nodejs)
 
-### AI & Machine Learning
-![Skills](https://skillicons.dev/icons?i=pytorch,opencv)
+### Database & Vector Store
+![Skills](https://skillicons.dev/icons?i=postgres,mysql)
 
-> Ngoài ra: **LangChain · RAG · n8n · HuggingFace**
-
-### Database
-![Skills](https://skillicons.dev/icons?i=mysql,postgres)
+> Vector DB: **Qdrant** &nbsp;·&nbsp; AI/RAG: **LangChain · Gemini API · RAGAS**
 
 ### DevOps & Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
 </div>
-
----
-
-## 🚀 Dự án nổi bật
-
-### 🔍 [Generative AI — Mô phỏng & Tìm kiếm Người Mất Tích](https://github.com/Duy/repo-1)
-> **Python · PyTorch · Generative AI · Computer Vision**
-
-Ứng dụng mô hình Generative AI để tái tạo và mô phỏng ngoại hình người mất tích dựa trên dữ liệu đầu vào, hỗ trợ công tác tìm kiếm.
-- Sử dụng mô hình sinh ảnh (Generative Image Model) để dự đoán sự thay đổi ngoại hình theo thời gian.
-- Tích hợp hệ thống tìm kiếm dựa trên đặc trưng khuôn mặt (Face Recognition).
-
----
-
-### 🧠 [Phân loại Khối u Não bằng Deep Learning](https://github.com/Duy/repo-2)
-> **Python · PyTorch · CNN · Vision Transformer · OpenCV**
-
-Xây dựng mô hình học sâu phân loại các loại khối u não từ ảnh MRI.
-- Thử nghiệm và so sánh các kiến trúc CNN và Vision Transformer.
-- Tiền xử lý dữ liệu ảnh y tế với OpenCV.
 
 ---
 
