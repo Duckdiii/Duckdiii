@@ -60,18 +60,6 @@ Dự án định hướng làm portfolio centerpiece sau khi hoàn thiện nền
 
 ---
 
-## 📚 Đang học / trau dồi
-
-Đang đi theo lộ trình Spring Boot có hệ thống: IoC/DI → Auto-configuration → REST API → Spring Data JPA/Hibernate → Spring Security (JWT → OAuth2/OIDC) → nâng cao.
-
-- [ ] Testing: JUnit 5, Mockito, MockMvc
-- [ ] Advanced JPA: N+1 problem, fetch strategies
-- [ ] Spring AOP
-- [ ] Redis caching
-- [ ] OpenAPI/Swagger + JWT integration
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -113,9 +101,9 @@ Dự án định hướng làm portfolio centerpiece sau khi hoàn thiện nền
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-14b785293/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenducduy25605@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duckdiii)
 
 </div>
 
