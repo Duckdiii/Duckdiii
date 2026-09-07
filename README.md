@@ -6,7 +6,7 @@
 
 Mình đang xây dựng nền tảng vững về **backend engineering** với Java/Spring Boot, song song với việc tích hợp AI (RAG, LLM) vào các sản phẩm thực tế. Hiện đang tìm kiếm cơ hội **Intern / Fresher Backend Developer**.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Duy&label=Lượt+xem+profile&color=0e75b6&style=flat)](https://github.com/Duy)
+[![Profile Views](https://komarev.com/ghpvc/?username=Duy&label=Lượt+xem+profile&color=0e75b6&style=flat)]([https://github.com/Duy](https://github.com/Duckdiii))
 
 </div>
 
