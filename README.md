@@ -16,7 +16,7 @@
 
 ### 💡 About & How I Think
 
-I'm a 3rd-year Software Engineering student at **HCMUTE**, driven by a deep curiosity for computing and the craft of engineering dependable software.
+I'm a 4th-year Software Engineering student at **HCM-UTE**, driven by a deep curiosity for computing and the craft of engineering dependable software.
 
 * 🏛️ **System Craftsmanship:** Focused on backend fundamentals—understanding data flow, software architecture, security, and the trade-offs that make systems resilient and maintainable.
 * 🧠 **Applied Intelligence:** Passionate about connecting software with modern AI, moving beyond the surface to engineer context-aware, high-precision retrieval systems.
